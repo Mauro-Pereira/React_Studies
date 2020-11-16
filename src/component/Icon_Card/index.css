@@ -1,0 +1,15 @@
+.icon-content{
+    width: 25%;
+    height: 421px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 65px;
+    left: 950px;
+   background: linear-gradient(270deg, #FAFAF8 6.82%, rgba(255, 255, 255, 0) 100%);
+}
+
+.icon-content img{
+    margin-left: 50%;
+}

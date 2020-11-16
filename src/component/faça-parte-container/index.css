@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+.faca-parte-container{
+    width: 1280px;
+    height: 520px;
+    position: absolute;
+    left: 0px;
+    top: 4649px;
+    background: #F2F2EE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.faca-parte-text-container{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.faca-parte-text{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+.faca-parte-text h1{
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 45px;
+    color: #FA4616;
+}
+
+.faca-parte-text p{
+    width: 80%;
+    font-family: PT Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    color: #6A6A57;
+}
+.faca-parte-text button{
+    width: 208px;
+    height: 49px;
+    left: 395px;
+    top: 4927px;
+    background: #FFFFFF;
+    border-radius: 40px;
+    outline: none;
+    border: none;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #FF7F41;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.faca-parte-image{
+    width: 50%;
+    height: 100%;
+    background-color: grey;
+    background: url(../../image/faça_parte.svg);
+    background-size: cover;
+
+}

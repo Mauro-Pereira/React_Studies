@@ -1,0 +1,9 @@
+.icon-transforma-container{
+    width: 1280px;
+    height: 103px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    top: 4288px;
+}

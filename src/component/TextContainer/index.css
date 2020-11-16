@@ -1,0 +1,24 @@
+.text-container{
+    position: absolute;
+    top: 3520px;
+    left: 100px;
+}
+
+.text-container h1{
+    width: 40%;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 45px;
+    color: #606395;
+}
+
+.text-container p{
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 23px;
+    color: #E31C79;
+}
